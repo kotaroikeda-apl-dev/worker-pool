@@ -13,6 +13,7 @@
 ```sh
 go run cmd/basic/main.go  #ワーカープールの基本実装
 go run cmd/end/main.go    #ワーカープールの終了処理
+go run cmd/change/main.go  #ワーカープールのワーカー数を変える
 ```
 
 ## **学習ポイント**
